@@ -1,4 +1,4 @@
-# 🚀 Course Allocation Engine
+# Course Allocation Engine
 
 A high-performance C++ implementation of a capacity-constrained course allocation system based on the Gale-Shapley (Hospital-Residents) matching algorithm.
 
